@@ -1,0 +1,15 @@
+PODS:
+  - SlideMenuControllerSwift (3.0.1)
+  - XLForm (3.3.0)
+
+DEPENDENCIES:
+  - SlideMenuControllerSwift (~> 3.0)
+  - XLForm (~> 3.3)
+
+SPEC CHECKSUMS:
+  SlideMenuControllerSwift: 9a163b16d54afab734add42858cba7ef7c307755
+  XLForm: d5c391dfc62865927b5bcab0a5a0dbfb3e02b0ec
+
+PODFILE CHECKSUM: c44182491c1f1ddfe98b7e8ee762c6127d4f9d9c
+
+COCOAPODS: 1.2.1
